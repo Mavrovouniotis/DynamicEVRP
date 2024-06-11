@@ -1,0 +1,5 @@
+./main X-n143-k7.evrp 0.05 14300 10 1
+./main X-n143-k7.evrp 0.1 14300 10 1
+./main X-n143-k7.evrp 0.25 14300 10 1
+./main X-n143-k7.evrp 0.5 14300 10 1
+./main X-n143-k7.evrp 0.75 14300 10 1
